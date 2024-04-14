@@ -6,6 +6,6 @@
 - 3rd
 
 '''python
-  import json
-  js=json.load(open('abc.jpson'))
+import json
+js=json.load(open('abc.jpson'))
 '''
