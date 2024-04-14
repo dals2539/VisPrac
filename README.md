@@ -5,7 +5,7 @@
 - 2nd
 - 3rd
 
-'''python
+```python
 import json
 js=json.load(open('abc.jpson'))
-'''
+```
